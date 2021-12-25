@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "port": 1337,
+
+    "blacklistedWords": ["RusherHack"],
+    "admins": ["Aestheticall"]
+}

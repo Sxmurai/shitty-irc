@@ -1,0 +1,24 @@
+{
+  "name": "shitty-irc",
+  "version": "1.0.0",
+  "description": "a shitty irc server with nodejs i made for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sxmurai/shitty-irc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sxmurai/shitty-irc/issues"
+  },
+  "homepage": "https://github.com/Sxmurai/shitty-irc#readme",
+  "dependencies": {
+    "signale": "^1.4.0",
+    "ws": "^8.4.0"
+  }
+}
